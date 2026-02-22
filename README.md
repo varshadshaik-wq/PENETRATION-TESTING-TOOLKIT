@@ -38,11 +38,11 @@ The toolkit currently includes three main modules:
 Each module is implemented as a separate Python script in the `modules` folder. The main controller script, `main.py`, integrates all modules and provides a **command-line menu interface** for easy interaction. This modular design makes it easy to add additional features in the future, such as **multithreaded scanning**, **logging results**, or integrating other penetration testing tools.
 
 # Output
-
+# Main Menu Output
 <img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/d361684b-f5a1-4be5-a085-bb8e570e1f34" />
-
+# Port Scanner Output
 <img width="1913" height="1012" alt="Image" src="https://github.com/user-attachments/assets/9f758d8d-35d6-4414-894f-446b7eb899d1" />
-
+# Banner Grabber Output
 <img width="1912" height="1018" alt="Image" src="https://github.com/user-attachments/assets/de7bd0da-ee90-43ec-9968-ab1a5d6f1589" />
-
+# Brute Force Module Output
 <img width="1903" height="1014" alt="Image" src="https://github.com/user-attachments/assets/7e3bdb6e-0959-4fe1-8b23-22c497f7642e" />
